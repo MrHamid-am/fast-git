@@ -7,9 +7,7 @@
     Created: Colorlib
 ---------------------------------------------------------  */
 
-"use strict";
-
-(function ($) {
+"use strict"(function ($) {
     /*------------------
         Preloader
     --------------------*/
@@ -66,7 +64,7 @@
         dots: true,
         animateOut: "fadeOut",
         animateIn: "fadeIn",
-        smartSpeed: 2000,
+        smartSpeed: 1000,
         autoHeight: false,
         autoplay: true,
         mouseDrag: false,
